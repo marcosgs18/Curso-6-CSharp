@@ -1,0 +1,11 @@
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb

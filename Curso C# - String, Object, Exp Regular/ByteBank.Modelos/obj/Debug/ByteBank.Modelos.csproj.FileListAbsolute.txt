@@ -1,0 +1,7 @@
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\marco\OneDrive\Área de Trabalho\csharppt5-master\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
